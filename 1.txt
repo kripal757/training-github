@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi
+=======
+print kripal
+print hi
+>>>>>>> 51f555a45dc3340bde381e626388eefa3e5481ff
